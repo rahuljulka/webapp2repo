@@ -83,3 +83,4 @@ C:\az400\webapp2\webapp2\obj\Debug\net10.0\refint\webapp2.dll
 C:\az400\webapp2\webapp2\obj\Debug\net10.0\webapp2.pdb
 C:\az400\webapp2\webapp2\obj\Debug\net10.0\webapp2.genruntimeconfig.cache
 C:\az400\webapp2\webapp2\obj\Debug\net10.0\ref\webapp2.dll
+C:\az400\webapp2\webapp2\obj\Debug\net10.0\webapp2.sourcelink.json
